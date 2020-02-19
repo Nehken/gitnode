@@ -6,7 +6,7 @@ const rl = readline.createInterface({
     output: process.stdout
   });
 
-rl.question("Insertar una ruta de archivo", (answer) => {
+rl.question("Insertar una ruta de archivo: ", (answer) => {
     
     
 })
